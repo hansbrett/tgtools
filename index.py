@@ -1,3 +1,4 @@
+# v 1.0 created by d-anisimov.ru
 import requests
 import json
 import os.path
